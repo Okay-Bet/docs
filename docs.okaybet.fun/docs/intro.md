@@ -2,46 +2,33 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# What is Okay Bet?
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## Introduction
 
-Get started by **creating a new site**.
+Okay Bet is a peer to peer betting platform that uses ecrow smart contracts to allow people to make wagers with eachother. All wagers are made in ether on the Base L2 network. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## How it works 
 
-### What you'll need
+There are 3 parties that make up a bet the Maker, the Taker, and the Judge. 
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Maker
 
-## Generate a new site
+This person makes and funds the bet contract. They need to specify the bet conditions, the addresses of the other parties, and the amount wagered. 
 
-Generate a new Docusaurus site using the **classic template**.
+## Taker
 
-The classic template will automatically be added to your project after you run the command:
+This person reads the bet and decides whether to accept or reject it. If they accept then they fund the bet and niether the Maker or the Taker can pull out thier funds until the bet is resolved.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Judge
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+This person is the one that decides who wins the bet. It may be the Maker or the Taker or it could be a third person that both parties trust with thier wager. The Judge reads the wager conditions and determines who won the bet, or whether they bet should be cancelled. If cancelled then the wager is refunded. If the Judge picks a winner then all of the funds in the contract will go to the winner's account. 
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+# Liability
 
-## Start your site
+Bets should only be made with parties you know and trust. The outcome of the bet is entirely up to the descrection of the Judge regardless of wager conditions. 
 
-Run the development server:
+Okay Bet does not custody any wagers or determine who wins any wagers. The smart contracts are deployed and work entirely peer to peer. Please do your own research, and use at your own risk. Betting with your friends is for fun, not investment. Please do not rug your friends. 
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- [Github](https://github.com/Okay-Bet/okay-bet-contracts) 
