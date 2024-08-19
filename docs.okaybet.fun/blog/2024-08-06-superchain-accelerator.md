@@ -2,7 +2,7 @@
 slug: superchain-accelerator
 title: Superchain App Accelerator
 authors: ben
-tags: [thirdweb, optimism, superchain]
+tags: [thirdweb, optimism]
 ---
 
 ![Superchain Accelerator](/img/opaccelerator.png)

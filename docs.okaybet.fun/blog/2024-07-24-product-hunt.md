@@ -2,7 +2,7 @@
 slug: product-hunt
 title: Product Hunt Launch
 authors: ben
-tags: [product-hunt, launch]
+tags: [product-hunt, base]
 ---
 
 Okay Bet got launched on [Product Hunt](https://www.producthunt.com/posts/okay-bet)! 

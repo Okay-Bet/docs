@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+onchain:
+  label: Onchain
+  permalink: /onchain
+  description: Crypto without the scammy baggage
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+base:
+  label: Base
+  permalink: /base
+  description: Ethereum Layer 2 operated by Coinbase and Optimism
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+thirdweb:
+  label: Thirdweb
+  permalink: /thirdweb 
+  description: A complete web3 development platform
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+product-hunt:
+  label: Product Hunt
+  permalink: /product-hunt
+  description: The platform to share and discover new products
+
+optimism:
+  label: Optimism
+  permalink: /optimism
+  description: Ethereum Layer 2 scaling solution
