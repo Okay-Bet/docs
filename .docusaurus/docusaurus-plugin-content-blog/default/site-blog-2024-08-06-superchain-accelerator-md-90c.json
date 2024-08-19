@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/superchain-accelerator",
+  "editUrl": "https://github.com/Okay-Bet/docs/blog/2024-08-06-superchain-accelerator.md",
+  "source": "@site/blog/2024-08-06-superchain-accelerator.md",
+  "title": "Superchain App Accelerator",
+  "description": "Superchain Accelerator",
+  "date": "2024-08-06T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Thirdweb",
+      "permalink": "/blog/tags/thirdweb",
+      "description": "A complete web3 development platform"
+    },
+    {
+      "inline": false,
+      "label": "Optimism",
+      "permalink": "/blog/tags/optimism",
+      "description": "Ethereum Layer 2 scaling solution"
+    }
+  ],
+  "readingTime": 0.33,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ben",
+      "title": "Building Okay Bet",
+      "url": "https://github.com/theschein",
+      "page": {
+        "permalink": "/blog/authors/ben"
+      },
+      "socials": {
+        "x": "https://x.com/schein_berg",
+        "github": "https://github.com/theschein"
+      },
+      "imageURL": "https://github.com/theschein.png",
+      "key": "ben"
+    }
+  ],
+  "frontMatter": {
+    "slug": "superchain-accelerator",
+    "title": "Superchain App Accelerator",
+    "authors": "ben",
+    "tags": [
+      "thirdweb",
+      "optimism"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Product Hunt Launch",
+    "permalink": "/blog/product-hunt"
+  }
+}

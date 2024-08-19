@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-usage/fund-or-cancel",
+  "title": "Fund or Cancel Bets",
+  "description": "After creating a bet each party has the oppurtunity to fund it or cancel it if they do not like the terms. Newly created bets that are not fully funded appear in the Unfunded Bets tab.",
+  "source": "@site/docs/tutorial-usage/fund-or-cancel.md",
+  "sourceDirName": "tutorial-usage",
+  "slug": "/tutorial-usage/fund-or-cancel",
+  "permalink": "/docs/tutorial-usage/fund-or-cancel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Okay-Bet/docs/docs/tutorial-usage/fund-or-cancel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Make a Bet",
+    "permalink": "/docs/tutorial-usage/make-a-bet"
+  },
+  "next": {
+    "title": "Resolve a Bet",
+    "permalink": "/docs/tutorial-usage/resolve-a-bet"
+  }
+}

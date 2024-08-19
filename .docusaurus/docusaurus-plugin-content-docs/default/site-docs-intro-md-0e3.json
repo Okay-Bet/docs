@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "What is Okay Bet?",
+  "description": "Introduction",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Okay-Bet/docs/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial",
+    "permalink": "/docs/category/tutorial"
+  }
+}

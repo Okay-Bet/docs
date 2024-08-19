@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "directory",
+              "path": "/docs/directory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-usage/fund-or-cancel",
+              "path": "/docs/tutorial-usage/fund-or-cancel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-usage/make-a-bet",
+              "path": "/docs/tutorial-usage/make-a-bet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-usage/resolve-a-bet",
+              "path": "/docs/tutorial-usage/resolve-a-bet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-usage/set-a-username",
+              "path": "/docs/tutorial-usage/set-a-username",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-usage/signing-in",
+              "path": "/docs/tutorial-usage/signing-in",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial",
+              "path": "/docs/category/tutorial",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

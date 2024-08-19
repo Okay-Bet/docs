@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Okay Bet Blog</title>
+        <link>https://docs.okaybet.fun/blog</link>
+        <description>Okay Bet Blog</description>
+        <lastBuildDate>Tue, 06 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Superchain App Accelerator]]></title>
+            <link>https://docs.okaybet.fun/blog/superchain-accelerator</link>
+            <guid>https://docs.okaybet.fun/blog/superchain-accelerator</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Superchain Accelerator]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Superchain Accelerator" src="https://docs.okaybet.fun/assets/images/opaccelerator-8fb5ce15981a61a8f56c49746dfd86d3.png" width="1172" height="620" class="img_ev3q"></p>
+<p><a href="https://www.okaybet.fun/" target="_blank" rel="noopener noreferrer">Okay Bet</a> received a $5,000 grant from the OP x Thirdweb Superchain App Accelerator program. This grant will be used to sponsor all transaction fees for Inapp wallets. This means you as a user can make and settle your bets all for free. Actually Okay Bet is not even currently monetized, this is costing me money. The least you could do is use it!</p>]]></content:encoded>
+            <category>Thirdweb</category>
+            <category>Optimism</category>
+        </item>
+        <item>
+            <title><![CDATA[Product Hunt Launch]]></title>
+            <link>https://docs.okaybet.fun/blog/product-hunt</link>
+            <guid>https://docs.okaybet.fun/blog/product-hunt</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Okay Bet got launched on Product Hunt!]]></description>
+            <content:encoded><![CDATA[<p>Okay Bet got launched on <a href="https://www.producthunt.com/posts/okay-bet" target="_blank" rel="noopener noreferrer">Product Hunt</a>!</p>
+<p><img decoding="async" loading="lazy" alt="Product Hunt Launch" src="https://docs.okaybet.fun/assets/images/productlaunch-ec4c9b647b922ca206444c80c12bd16f.png" width="1148" height="777" class="img_ev3q"></p>
+<p>This was the debutante of Okay Bet for users to get in on the action with the contracts deployed on Base mainnet. With over 50 upvotes and over 20 comments I was excited to get some positive feedback after throwing it out there to the public. This also informed further iterations in both style features for Okay Bet.</p>]]></content:encoded>
+            <category>Product Hunt</category>
+            <category>Base</category>
+        </item>
+        <item>
+            <title><![CDATA[Bets With Friends]]></title>
+            <link>https://docs.okaybet.fun/blog/bets-with-friends</link>
+            <guid>https://docs.okaybet.fun/blog/bets-with-friends</guid>
+            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The idea for Okay Bet started at the Base Onchain Summer Hackathon. Thirdweb sponsored the gaming track, and I decided to make a betting game based on escrow contracts in the parody style of Words with Friends.]]></description>
+            <content:encoded><![CDATA[<p>The idea for Okay Bet started at the <a href="https://devfolio.co/projects/bets-with-friends-4af6" target="_blank" rel="noopener noreferrer">Base Onchain Summer Hackathon</a>. <a href="https://thirdweb.com/" target="_blank" rel="noopener noreferrer">Thirdweb</a> sponsored the gaming track, and I decided to make a betting game based on escrow contracts in the parody style of <a href="https://wordswithfriends.com/" target="_blank" rel="noopener noreferrer">Words with Friends</a>.</p>
+<p>Bets With Friends was deployed on the Base Sepolia testnet and, while janky, had the core betting functionality working great.</p>
+<p><img decoding="async" loading="lazy" alt="Description of image" src="https://docs.okaybet.fun/assets/images/betswithfriends-cc74277377485876fb3e8cd90522cb49.png" width="1238" height="900" class="img_ev3q"></p>
+<p>Unfortunately, my entry did not become a finalist, but I choose to believe it is due to Coinbase and our other lovely sponsors not wanting anything to do with appearing to sponsor gambling. I do not share those reservations, so I decided to continue with Okay Bet.</p>]]></content:encoded>
+            <category>Onchain</category>
+            <category>Base</category>
+            <category>Thirdweb</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Superchain App Accelerator",
+      "permalink": "/blog/superchain-accelerator",
+      "unlisted": false,
+      "date": "2024-08-06T00:00:00.000Z"
+    },
+    {
+      "title": "Product Hunt Launch",
+      "permalink": "/blog/product-hunt",
+      "unlisted": false,
+      "date": "2024-07-24T00:00:00.000Z"
+    },
+    {
+      "title": "Bets With Friends",
+      "permalink": "/blog/bets-with-friends",
+      "unlisted": false,
+      "date": "2024-07-01T00:00:00.000Z"
+    }
+  ]
+}
