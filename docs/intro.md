@@ -7,28 +7,31 @@ sidebar_position: 1
 
 ## Introduction
 
-Okay Bet is a peer to peer betting platform that uses ecrow smart contracts to allow people to make wagers with eachother. All wagers are made in ether on the Base L2 network. 
+Okay Bet is a cutting-edge peer-to-peer betting platform that uses smart contracts to enable safe and open betting between users. The platform ensures that all bets are managed fairly and efficiently, providing users with a seamless and trustworthy betting experience. All wagers are conducted in Ether (ETH) on the Base Layer 2 network, which offers enhanced scalability and reduced transaction costs, making the process both efficient and cost-effective for participants.
 
 ## How it works 
 
-There are 3 parties that make up a bet the Maker, the Taker, and the Judge. 
+In Okay Bet, every wager is formed by three key participants: the Maker, the Taker, and the Judge, each playing a crucial role in the process.
 
 ### Maker
 
-This person makes and funds the bet contract. They need to specify the bet conditions, the addresses of the other parties, and the amount wagered. 
+The Maker is the initiator of the bet. They create and fund the bet contract, taking the first step in setting the wager into motion. The Maker must define the bet conditions, including the specific criteria for winning or losing, and the exact amount of USD in ETH they are wagering. This initial setup is essential, as it lays the foundation for a fair and transparent betting process.
 
 ### Taker
 
-This person reads the bet and decides whether to accept or reject it. If they accept then they fund the bet and niether the Maker or the Taker can pull out thier funds until the bet is resolved.
+The Taker is the counterpart to the Maker, stepping in to review the proposed bet. They have the critical decision of whether to accept or reject the bet. If the Taker finds the terms agreeable, they fund the bet with their own USD in ETH, locking in their commitment. Once the Taker accepts, both parties' funds are securely held; this binding commitment ensures that both parties are equally invested in the outcome.
 
 ### Judge
 
-This person is the one that decides who wins the bet. It may be the Maker or the Taker or it could be a third person that both parties trust with thier wager. The Judge reads the wager conditions and determines who won the bet, or whether they bet should be cancelled. If cancelled then the wager is refunded. If the Judge picks a winner then all of the funds in the contract will go to the winner's account. 
+The Judge plays a pivotal role in the betting process, acting as the final arbiter of the wager's outcome. This individual is responsible for determining who wins the bet based on the conditions set forth by the Maker. The Judge can be the Maker, the Taker, or a mutually trusted third party chosen by both participants to oversee the wager impartially.
+
+Once the bet has been placed, the Judge carefully reviews the agreed-upon conditions to make a fair and informed decision. Their role is to either declare a winner or, in some cases, decide if the bet should be canceled due to unforeseen circumstances or ambiguities in the terms. If the bet is canceled, all funds are refunded to the respective parties. However, if the Judge selects a winner, the entirety of the funds in the contract is immediately transferred to the winner's account, concluding the bet with a decisive outcome. 
 
 ## Liability
 
-Bets should only be made with parties you know and trust. The outcome of the bet is entirely up to the descrection of the Judge regardless of wager conditions. 
+When using Okay Bet, it's crucial to only place bets with people you know and trust. The outcome of any wager is entirely at the discretion of the Judge, even if the wager conditions seem clear. This underscores the importance of mutual trust among all parties involved.
 
-Okay Bet does not custody any wagers or determine who wins any wagers. The smart contracts are deployed and work entirely peer to peer. Please do your own research, and use at your own risk. Betting with your friends is for fun, not investment. Please do not rug your friends. 
+Okay Bet does not hold custody of any wagers, nor does it influence or determine the outcome of any bets. The platform operates through smart contracts that are fully decentralized, functioning in a purely peer-to-peer manner. This means that you are responsible for ensuring the fairness and reliability of your betting arrangements.  Remember, betting with friends should be an enjoyable experience, not a financial venture.
+Please do not rug your friends. 
 
 - [Github](https://github.com/Okay-Bet/okay-bet-contracts) 
