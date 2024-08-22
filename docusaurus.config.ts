@@ -70,6 +70,11 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: 'https://okaybet.fun',
+          label: 'Okaybet.fun',
+          position: 'right',
+        },
       ],
     },
     footer: {
