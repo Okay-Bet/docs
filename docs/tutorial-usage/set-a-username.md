@@ -10,7 +10,7 @@ Click the **Set Username** button to expand it as shown below:
 
 ![Set Username](/img/setusername.png)
 
-Pick any name you like as long as it is unique. Registering a username records a transaction onchain therefore, it will cost a miniscule amount in gas, howhever, in-app wallets sponser this for free. 
+Pick any name you like as long as it is unique. Registering a username records a transaction onchain therefore, it will cost a miniscule amount in gas, however, in-app wallets sponser this for free. 
 
 ## Benefits of Usernames 
 
