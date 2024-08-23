@@ -14,7 +14,7 @@ The conditions is what the Judge should review to determine a winner. It is a st
 
 ## Maker
 
-The Maker is the person making the bet. The address is autopopulated witht the wallet the user logged in with, but it could technically be anyone. This individual will also be placing their own funds into the wager based on the conditions specified.
+The Maker is the person making the bet. The address is autopopulated with the wallet the user logged in with, but it could technically be anyone. This individual will also be placing their own funds into the wager based on the conditions specified.
 
 ## Taker
 
