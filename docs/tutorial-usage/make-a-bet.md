@@ -24,11 +24,11 @@ This is the person on the other side of the bet. Ensure that their address or us
 
 This is the person who decides the outcome of the bet. It’s important to choose the Judge carefully, ensuring they are someone both parties can trust. The bet’s resolution is entirely up to the Judge’s discretion, as the conditions are technically arbitrary. The Judge does not receive any financial compensation; this arrangement is based entirely on trust.
 
-For simplicity, the Judge can be either the Maker or the Taker, though this setup is not advisable for high-stakes wagers or when dealing with oposing opinions.
+For simplicity, the Judge can be either the Maker or the Taker, though this setup is not advisable for high-stakes wagers or when dealing with argumentative people.
 
 ## Wager Amount
 
-This is the amount each side puts into the bet. For example, if the wager is worth $100 then the fully funded contract will have a total of $200 in it. While the wagers are entered in USD, currently Ok Bet's wagers only accepts ETH. 
+This is the amount each side puts into the bet. For example, if the wager is worth $100 then the fully funded contract will have a total of $200 in it. While the wagers are entered in USD, currently Okay Bet's wagers only accepts ETH. 
 
 ## Make Bet
 
