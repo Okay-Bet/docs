@@ -9,6 +9,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
   url: 'https://www.docs.okaybet.fun',
   baseUrl: '/',
+  trailingSlash: true,
   organizationName: 'Okay-Bet',
   projectName: 'docs',
   deploymentBranch: 'gh-pages',
