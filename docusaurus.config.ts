@@ -7,10 +7,10 @@ import rehypeKatex from 'rehype-katex';
 const config: Config = {
   title: 'Okay Bet',
   favicon: 'img/favicon.ico',
-  url: 'https://docs.okaybet.fun',
+  url: 'https://www.docs.okaybet.fun',
   baseUrl: '/',
   organizationName: 'Okay-Bet',
-  projectName: 'Docs',
+  projectName: 'docs',
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -71,7 +71,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://okaybet.fun',
+          href: 'https://www.okaybet.fun',
           label: 'Okaybet.fun',
           position: 'right',
         },
