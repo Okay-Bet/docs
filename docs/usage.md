@@ -4,37 +4,37 @@ sidebar_position: 3
 
 # How to find People to Bet
 
-It's not always easy to get started making P2P bets if you do not know anyone else doing it. Unlike sports books or prediction markets, it is up to you to find the other side of your bet. But the upshot is that you can negotiate your own terms. Let's go through step by step finding a bet.
+Getting started with P2P betting can be challenging, especially if you don't know anyone else participating. Unlike traditional sports books or prediction markets, it's your responsibility to find someone to take the other side of your bet. However, the advantage is that you have the freedom to negotiate your own terms. Let's walk through the process of finding a bet, step by step.
 
 ## Sign up and Register a Username
 
-If you haven't already go to [okaybet.fun](https://www.okaybet.fun/) and either sign up or sign in with the wallet of your choice. Then [set a username](https://docs.okaybet.fun/docs/tutorial-usage/set-a-username) so others will have an easier time making bets with you. While usernames aren't required, it definitely simplifies the process.
+If you haven’t done so yet, head over to [okaybet.fun](https://www.okaybet.fun/) and sign up or log in using your preferred wallet. Next, [set a username](https://docs.okaybet.fun/docs/tutorial-usage/set-a-username) to make it easier for others to place bets with you. While usernames aren’t mandatory, they definitely simplify the process.
 
 ## Join a Community
 
-The main community for using Okay Bet can be found on Discord **[here](https://discord.gg/ptXTA5TeVE)**. If you want your community to integrate with and be featured by Okay Bet, email ben@okaybet.fun 
+The primary community for Okay Bet is on Discord **[here](https://discord.gg/ptXTA5TeVE)**, which you can join here. If you'd like your own community to integrate with or be featured by Okay Bet, reach out via email to ben@okaybet.fun.
 
 ## Make an Offer
 
-Go to the **#betting** channel and post the bet that you want to make. When betting with people you do not know for the first time you should make your bet on something easily provable online (sports, elections, markets, etc.) instead of personal, hard to prove wagers (losing 10lbs). In your offer make sure you clearly state each part of the bet:
+Head to the **#betting** channel and post the bet you'd like to make. When betting with someone for the first time, it's best to choose a wager on something easily verifiable online (such as sports, elections, or markets) rather than personal, harder-to-prove bets (like losing 10 pounds). Make sure your offer clearly outlines every aspect of the bet:
 
-- Conditions: ex "Penn State -8.5 vs WVU" means as the maker you are betting on Penn State to win by more than 8.5 points against West Virginia University
-- Judge: This is the person determines the winner, make sure this is a trusted person and you are sizing your wagers accordingly. Set **'okaybet'** as the judge for easily provable wagers and the project creator will choose the winner, but each community will have their own trusted moderator to help decide. Keep your first wagers low as you get the process figured out and build trust in the group.
-- Wager: This is the amount of money each side is putting in the pot. All wagers are double or nothing.
+- **Conditions:** For example, "Penn State -8.5 vs WVU" means you’re betting on Penn State to win by more than 8.5 points against West Virginia University.
+- **Judge:** This is the person who determines the winner of the bet. Ensure they are trustworthy and size your wagers accordingly. For easily provable bets, set **'okaybet'** as the judge, and the project creator will determine the winner. Each community should have its own moderator to help with this. Keep initial wagers small while you familiarize yourself with the process and build trust.
+- **Wager:** This is the total amount both sides are betting. All wagers are double or nothing.
 
 ## Take an Offer
 
-Go to the **#betting** channel and browse the offers for bets that others have made. If there is an open one you like then start a thread under their response.
+Go to the #betting channel and explore the bet offers others have posted. If you find an open offer that interests you, start a thread under their post.
 
 ### Negotiate
 
-If the bet is close to something that you would accept you are encouraged to negotiate the terms. In the thread feel free to counter offer with your terms and be ready for a debate. However there is no need to play hardball, each side is getting far better value on their wagers compared to other betting markets, read more about it **[here](https://docs.okaybet.fun/blog/nate-silver-sports-betting)**. 
+If the terms of a bet are close to what you'd agree to, feel free to negotiate. In the thread, you can counter with your own terms and be ready for a debate. There's no need to play hardball though—both sides get significantly better value compared to traditional betting markets. Learn more about that **[here](https://docs.okaybet.fun/blog/nate-silver-sports-betting)**. 
 
 ## Accept the terms 
 
-Once each side accepts the terms it is time to take the wager to [okaybet.fun](https://www.okaybet.fun/) to punch it in. It is recommended that the one that made the offer creates the bet with the agreed upon terms. Check out the [tutorial](https://docs.okaybet.fun/docs/category/tutorial) on creating and funding bets for step by step instructions. After the Maker creates and funds the bet, the Taker then needs to fund it or cancel. After the bet is fully funded the bettors should alert the judge in the thread that they have some action out. 
+Once both parties agree on the terms, it's time to head to [okaybet.fun](https://www.okaybet.fun/) to finalize the wager. It’s recommended that the one that made the offer creates the bet with the agreed upon terms. Follow the [tutorial](https://docs.okaybet.fun/docs/category/tutorial) on creating and funding bets for step-by-step instructions. After the Maker sets up and funds the bet, the Taker must either fund it or cancel. Once the bet is fully funded, both bettors should notify the judge in the thread that the action is live.
 
 ## Settling the Bet
 
-After a wager is locked, only the judge may declare the winner. After the winner is declared they get their funds immediately. It is important to pick a judge trusted by you and the community. 
+xOnce a wager is locked, only the judge can declare the winner. After the decision is made, the winner receives their funds immediately. It’s essential to choose a judge you and the community trust. 
 
