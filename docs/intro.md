@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# What is Okay Bet?
+# Okay Bet Litepaper
 
 
 ## Introduction

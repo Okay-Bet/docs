@@ -98,6 +98,10 @@ const config: Config = {
               href: 'https://discord.gg/ptXTA5TeVE',
             },
             {
+              label: 'Telegram',
+              href: 'https://t.me/+FnKD76WKUxxjYmQx',
+            },
+            {
               label: 'Twitter',
               href: 'https://x.com/okay_bet_app',
             },
