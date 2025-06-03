@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # Address Directory
+### [DEPRECATED]
 
 Here are some important contract addresses for interacting with Okay Bet. All contracts are deployed on Base
 

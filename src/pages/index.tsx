@@ -51,7 +51,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`Okay Bet`} description="P2P PvP Betting Platform">
+    <Layout title={`Okay Bet`} description="Apps on Prediction Markets">
       <HomepageHeader />
       <main></main>
     </Layout>

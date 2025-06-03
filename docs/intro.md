@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Okay Bet Litepaper
+### [DEPRECATED]
 
 
 ## Introduction

@@ -3,6 +3,8 @@ sidebar_position: 3
 ---
 
 # How to find People to Bet
+### [DEPRECATED]
+
 
 It's not always easy to get started making P2P bets if you do not know anyone else doing it. Unlike sports books or prediction markets, it is up to you to find the other side of your bet. But the upshot is that you can negotiate your own terms. Let's go through step by step finding a bet.
 
