@@ -31,3 +31,6 @@ Thumbs.db
 build/
 .docusaurus/
 
+# weird shit
+.$*
+*.drawio
