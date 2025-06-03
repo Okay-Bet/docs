@@ -13,14 +13,26 @@ function HomepageHeader() {
         </Heading>
         <div className={styles.description}>
           <p>
-            A PvP P2P platform for making and settling bets with your friends
-            and community. This site is the documentation and information on Okay Bet. Check out&nbsp;     
-            <a href="https://okaybet.fun"  rel="noopener noreferrer" className={styles.link}>
-               okaybet.fun 
-            </a>, and below is a demo on how it works.
+            The application layer of prediction markets. This
+            site is the documentation and information on Okay Bet. Check
+            out&nbsp;
+            <a
+              href="https://okaybet.app"
+              rel="noopener noreferrer"
+              className={styles.link}
+            >
+              okaybet.app
+            </a>
+            .
           </p>
         </div>
-        <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+        <image>
+          <img
+            src="/img/okay_bet_homepage.png"
+            alt="Homepage"
+          />
+        </image>
+        {/* <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
         <div className={styles.videoContainer}>
           <iframe
             width="100%"
@@ -30,7 +42,7 @@ function HomepageHeader() {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-        </div>
+        </div> */}
       </div>
     </header>
   );
