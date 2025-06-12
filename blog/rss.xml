@@ -4,10 +4,41 @@
         <title>Okay Bet Blog</title>
         <link>https://www.docs.okaybet.app/blog/</link>
         <description>Okay Bet Blog</description>
-        <lastBuildDate>Mon, 02 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[What Happened When I Let Futarchy Decide My Startup's Worth at Manifest]]></title>
+            <link>https://www.docs.okaybet.app/blog/futarchy-startup-valuation/</link>
+            <guid>https://www.docs.okaybet.app/blog/futarchy-startup-valuation/</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[An experiment in valuation at the world's biggest prediction market festival]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="an-experiment-in-valuation-at-the-worlds-biggest-prediction-market-festival">An experiment in valuation at the world's biggest prediction market festival<a href="https://www.docs.okaybet.app/blog/futarchy-startup-valuation/#an-experiment-in-valuation-at-the-worlds-biggest-prediction-market-festival" class="hash-link" aria-label="Direct link to An experiment in valuation at the world's biggest prediction market festival" title="Direct link to An experiment in valuation at the world's biggest prediction market festival">​</a></h2>
+<img src="https://www.docs.okaybet.app/img/ben-booth.png" alt="Manifest Night Market Booth">
+<p>It is time for Okay Bet to raise its first round of funding. With an empty cap table, investors need some context for valuation. An effective way to make decisions and poll public opinion is with prediction markets. This market driven policy is called Futarchy and it involves having a group bet on the what the policy outcome would be in order to decide what to do in the first place.
+To try this out I went to the world's largest prediction market conference, Manifest 2025, to ask the best forecasters to bet on what Okay Bet is worth.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-rules">The Rules<a href="https://www.docs.okaybet.app/blog/futarchy-startup-valuation/#the-rules" class="hash-link" aria-label="Direct link to The Rules" title="Direct link to The Rules">​</a></h2>
+<p>A real money contest was created with the rules below. Players put their dollars at stake with the incentive to profit. The rules as the attendees saw them are written below.</p>
+<img src="https://www.docs.okaybet.app/img/rules-sheet.png" alt="Rules Sheet">
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-process">The Process<a href="https://www.docs.okaybet.app/blog/futarchy-startup-valuation/#the-process" class="hash-link" aria-label="Direct link to The Process" title="Direct link to The Process">​</a></h2>
+<p>For 2 hours market participants arrived to the booth and were encouraged to bet on the valuation. To help make an informed decision, I gave them data for both fundamental and technical analysis.</p>
+<p>For the value investors there was plenty of information about the project from the one pager you see below to the app running live and even the founder available to answer any hard questions. This gave the bettors data to ground their valuation forecast.</p>
+<p>The technical analysis was bit more fun. The amount bet in each jar was recorded in detail during the entire event. New bettors could see the orders of the earlier ones giving them an advantage. The information was available to determine wager sizing and calculate expected value.</p>
+<div style="display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap"><img src="https://www.docs.okaybet.app/img/okay-bet-one-pager.png" alt="Okay Bet One-Pager" style="width:48%;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.15)"><img src="https://www.docs.okaybet.app/img/liquidity-pool.png" alt="Liquidity Pool" style="width:48%;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.15)"></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="results">Results<a href="https://www.docs.okaybet.app/blog/futarchy-startup-valuation/#results" class="hash-link" aria-label="Direct link to Results" title="Direct link to Results">​</a></h2>
+<p>While the first few bettors had a large range of small bets, a high conviction forecaster set the market with a <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>42</mn><mi>w</mi><mi>a</mi><mi>g</mi><mi>e</mi><mi>r</mi><mi>o</mi><mi>n</mi><mi>a</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">42 wager on an </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em"></span><span class="mord">42</span><span class="mord mathnormal" style="margin-right:0.02691em">w</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.03588em">g</span><span class="mord mathnormal">ero</span><span class="mord mathnormal">nan</span></span></span></span>8 million valuation. From there, many of the other players followed his lead.</p>
+<img src="https://www.docs.okaybet.app/img/valuation-results-chart.png" alt="Valuation Results Chart">
+<p>The winning bettors saw a 37% return on their investment by taking it from the losing valuations.</p>
+<table><thead><tr><th>Winning Bet</th><th>Payout</th></tr></thead><tbody><tr><td>$42.00</td><td>$57.69</td></tr><tr><td>$5.00</td><td>$6.87</td></tr><tr><td>$5.00</td><td>$6.87</td></tr><tr><td>$1.00</td><td>$1.37</td></tr><tr><td>$10.00</td><td>$13.73</td></tr><tr><td>$10.00</td><td>$13.73</td></tr><tr><td>$10.00</td><td>$13.73</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="is-okay-bet-really-worth8m">Is Okay Bet really worth&nbsp;$8M?<a href="https://www.docs.okaybet.app/blog/futarchy-startup-valuation/#is-okay-bet-really-worth8m" class="hash-link" aria-label="Direct link to Is Okay Bet really worth&nbsp;$8M?" title="Direct link to Is Okay Bet really worth&nbsp;$8M?">​</a></h2>
+<p>I mean, who are we to doubt the invisible hand of the free market?</p>
+<p><em>Okay Bet is looking for $500k to raise a preseed round at an $8 million dollar valuation. Please email <strong><a href="mailto:ben@okaybet.app" target="_blank" rel="noopener noreferrer">ben@okaybet.app</a></strong> for more information and to set up a call.</em></p>]]></content:encoded>
+            <category>futarchy</category>
+            <category>manifest</category>
+            <category>fundraising</category>
+            <category>startup</category>
+        </item>
         <item>
             <title><![CDATA[This Is Why Prediction Markets Might Be the Only Fix for Today’s Media]]></title>
             <link>https://www.docs.okaybet.app/blog/fix-news-with-prediction-markets/</link>
